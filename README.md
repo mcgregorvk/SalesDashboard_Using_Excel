@@ -41,4 +41,3 @@
   3. Navigate through the different sheets and charts to view the various analyses performed.
   4. Refer to the documentation section or the comments within the Excel file to understand the formulas and calculations used.
   5. Customize the dashboard by updating the data or adding additional analyses as per your requirements.
-  6. 
